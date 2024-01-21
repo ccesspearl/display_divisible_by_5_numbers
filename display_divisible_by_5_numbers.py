@@ -4,5 +4,7 @@
 # Pseudocode 
 
 # Create a variable for given list 
+given_list = [5,10,15,18,20,24,25]
+
 # Use for loop 
 # Use if statement and print the results 
