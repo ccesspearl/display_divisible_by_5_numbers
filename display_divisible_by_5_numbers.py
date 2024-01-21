@@ -10,3 +10,7 @@ given_list = [5,10,15,18,20,24,25]
 for i in given_list:
 
 # Use if statement and print the results
+    if i % 5 == 0: 
+        print("Given list is", given_list)
+        print("Divisible by 5:")
+        print(i)
